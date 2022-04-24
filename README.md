@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wildyuppie
-- 👀 I’m interested in coding esp. Python, C, Javascript, etc.and other low-code solution
-- 🌱 I’m always tweaking with coding of various languages including non-standard ones like Construct, Arduino, and the standards ones mentioned above
+- 👀 I’m interested in coding esp. Python, C, Javascript, etc.and sometimes proprietary and open-source low-code platforms.
+- 🌱 I’m always tweaking with coding of various languages including the above-mentioned and creating solutions, games, automation, and gadgets.- 
 - 💞️ I’m not currently looking to collaborate on anything specific but observe and learn.
 - 📫 How to reach me: http://flyingsalmon.net
 
